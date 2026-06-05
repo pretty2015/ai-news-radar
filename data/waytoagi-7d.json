@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:09:37.804993Z",
+  "generated_at": "2026-06-05T19:15:06.265222Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-05",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-05",
@@ -24,6 +24,11 @@
     },
     {
       "date": "2026-06-05",
+      "title": "很多人装完 Claude Code后，会经历一种很熟悉的落差。别人的分享里，它像一个高级工程师：读项目、拆任务、改代码、跑测试、做总结，一路顺滑。轮到自己这里，它却像一个刚入职但没人带的新人。Claude Code的很多差体验，根源不在模型本身，而在你没有给它搭 harness。所以别急着装更多Skill，也别急着换模型。先检查一件事：你的项目里，有没有一套让Claude Code稳定工作的四层约束。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-05",
       "title": "大多数人打开 Codex，看到聊天窗口，就把它当成一个界面更华丽的 ChatGPT。结果， 90%的用户 都错过了它真正强大的功能。他们 不会构建技能（Skills） ， 不会部署到线上 ， 不会让自动化任务在后台运行 。本文将用14个步骤，在30分钟内带你从空白文件夹搭建出完整可用的 AI 工作流。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -38,7 +43,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-06-05",
@@ -53,6 +58,11 @@
     {
       "date": "2026-06-05",
       "title": "扣子3.0升级以来，作为全新的 AI Agent 平台，越来越多的用户正在用扣子完成真实工作任务，也有很多人用来辅助投资理财、提供决策参考，让 Agent 来整理信息、追踪变化，并在一次次复盘中不断优化。 有一个用户把扣子接进了自己的日常 A 股交易辅助流程里， 盘前整理市场信息，盘中监控持仓变化，盘后复盘交易策略，再把每天的执行结果继续带回系统中迭代，收益获得大幅提升。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-05",
+      "title": "很多人装完 Claude Code后，会经历一种很熟悉的落差。别人的分享里，它像一个高级工程师：读项目、拆任务、改代码、跑测试、做总结，一路顺滑。轮到自己这里，它却像一个刚入职但没人带的新人。Claude Code的很多差体验，根源不在模型本身，而在你没有给它搭 harness。所以别急着装更多Skill，也别急着换模型。先检查一件事：你的项目里，有没有一套让Claude Code稳定工作的四层约束。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
